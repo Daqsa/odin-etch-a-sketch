@@ -1,0 +1,7 @@
+#container {
+    display: flex;
+}
+
+.square-div {
+    border: 1px solid black;
+}
